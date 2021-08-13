@@ -9,7 +9,7 @@ This is a codebase that follows accessbility standards and it optimize search en
 ## Links to my github and live website.
 [This is the link to my github](https://github.com/yinping-520/August-11th-uncc-homework-refatoring)
 
-[This is the link to my live website](https://yinping-520.github.io/August-11th-uncc-homework-refatoring/)
+[This is the link to my live website](https://yinping-520.github.io/august-11th-uncc-homework-refatoring/)
 
 ## Outcome 
 The following image shows the web application's appearance and functionality:
